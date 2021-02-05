@@ -1,0 +1,32 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+Sanjana Dutt
+
+
+2. What hostname did you deploy to?
+sanjanawebdev.xyz
+
+
+3. Which parts of this assignment did you have trouble with, if any?
+Starting the game with react since I have never learned this language. 
+I really had trouble with the logic in some parts, such as the bulls and
+cows results logic. 
+
+In my game I have B represent a Bull and C represent a Cow. 
+
+4. What external libraries did you use? For what?
+lodash to generate the four digit random number which is the answer 
+players are trying to get find. 
+
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
